@@ -1,0 +1,11 @@
+JRC2103,,,
+,,,
+Pin,Type,Name,Side
+1,un,Ct,bottom
+2,un,Vsc,bottom
+3,un,OUTc,bottom
+4,un,GND,bottom
+8,un,~RESET~,top
+7,un,Vsa,top
+6,un,Vsb,top
+5,un,VP,top

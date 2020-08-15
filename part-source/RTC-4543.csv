@@ -1,0 +1,17 @@
+RTC-4543,,,
+,,,
+Pin,Type,Name,Side
+1,un,GND,bottom
+2,un,NC,bottom
+3,un,CE,bottom
+4,un,Fsel,bottom
+5,un,WR,bottom
+6,un,Foe,bottom
+7,un,NC,bottom
+14,un,Fout,top
+13,un,NC,top
+12,un,NC,top
+11,un,DATA,top
+10,un,CLK,top
+9,un,Vdd,top
+8,un,NC,top

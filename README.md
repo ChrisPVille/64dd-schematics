@@ -1,4 +1,6 @@
 # 64dd-schematics
 Schematics for the Nintendo 64 Disk Drive (N64DD)
 
-Status: Just got access to PCB, starting transcription
+See 64dd/64dd.pdf
+
+Status: H8 transcribed. Working outward from there 

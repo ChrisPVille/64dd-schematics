@@ -1,0 +1,11 @@
+C46T6,,,
+,,,
+Pin,Type,Name,Side
+1,un,DU,bottom
+2,un,VCC,bottom
+3,un,S,bottom
+4,un,C,bottom
+8,un,ORG,top
+7,un,VSS,top
+6,un,Q,top
+5,un,D,top
